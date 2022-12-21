@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-       int bilet = 2000;
-       int OneMily = 20;
-       int bonys = bilet / OneMily;
+        int ticket = 2000;
+        int oneMiley = 20;
+        int bonus = ticket / oneMiley;
 
-        System.out.println(bonys);
-              }
+        System.out.println(bonus);
     }
+}
+
